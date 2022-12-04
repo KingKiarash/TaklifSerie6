@@ -2,9 +2,7 @@
 
 int main()
 {
-printf("%d",Hello\n);
-
-printf("I am changing this file");
+printf("%d",Hello);
 
 return 0;
 }
